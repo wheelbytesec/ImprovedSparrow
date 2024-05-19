@@ -1,6 +1,6 @@
 # Sparrow.ps1 Repository
 
-Welcome to the **Sparrow.ps1** repository! This repository contains the **Sparrow.ps1** script, created by CISA's Cloud Forensics team to assist in detecting possible compromised accounts and applications within the Azure/M365 environment. The tool is designed for use by incident responders, providing a focused examination of user and application activity pertinent to identity and authentication-based attacks.
+Welcome to the **Sparrow.ps1** repository! This repository contains the **Sparrow.ps1** script, created by CISA's Cloud Forensics team to assist in detecting possible compromised accounts and applications within the Azure/M365 environment. The tool is designed for use by incident responders, providing a focused examination of user and application activity pertinent to identity and authentication-based attacks. This script was made in late 2020 and was never updated. Because of this, I decided to re-vamp the script with some additional features. 
 
 ## Features
 
