@@ -34,6 +34,9 @@ The script has been enhanced with the following additional features and improvem
 ## Usage
 
 To use the enhanced **Sparrow.ps1** script, simply run it in your PowerShell environment. The script will automatically check for required modules, perform the analysis, and generate a detailed report with the findings.
+![3dgifmaker72299](https://github.com/wheelbytesec/ImprovedSparrow/assets/170215972/288bda06-0e34-4a00-8d28-70bff89e1f4f)
+
+
 
 ```powershell
 # Example of running the enhanced Sparrow.ps1 script
